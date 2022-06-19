@@ -1,7 +1,7 @@
 # discord-emoji-downloader
 Script to quickly download all emojis from a discord server
 
-###Usage
+# Usage
 1. Open the emoji selector 
 2. Navigate to the desired server
 3. Inspect element
