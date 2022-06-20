@@ -7,5 +7,5 @@ Script to quickly download all emojis from a discord server
 3. Inspect element
 4. Navigate to the div of only that emoji category
 5. Right click, edit as HTML
-6. Copy into script GUI
+6. Copy into script GUI 
 Optionally type 32 at the end of the html to download low res versions
